@@ -2,8 +2,8 @@
 </h1>
 
 #### 📬 Find me at
-[![Youtube Badge](http://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube&link=https://www.youtube.com/)](https://www.youtube.com/c/salvadorvalverdedev) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/salvador-valverde/)
+[![Youtube Badge](http://img.shields.io/badge/-Youtube-red?style=flat-square&logo=youtube&link=https://www.youtube.com/)](https://www.youtube.com/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hmhabib999@gmail.com)](mailto:mailto:hmhabib999@gmail.com)
 
 
