@@ -29,9 +29,8 @@
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/dart.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/flutter.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/firebase.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/aws.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/typescript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/redux.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/javascript%20(1).png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/nodejs.png"></code>
 <!-- <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/nuxtjs-icon.svg"></code> -->
@@ -40,6 +39,8 @@
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/angular.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/express.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/php.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/react.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/redux.png"></code>
 <!-- <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/laravel.png"></code> -->
 <br>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/mysql.png"></code>
@@ -47,7 +48,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/bootstrap.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/sass.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/MD-HABIBUR-RAHMAN/MD-HABIBUR-RAHMAN/master/icons/aws.png"></code>
+
 
 <br><br>
 ##
